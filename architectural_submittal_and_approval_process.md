@@ -3,13 +3,13 @@
 Each homeowner has the responsibility to complete an Architectural Request Form prior to making any changes, additions, or deletions to the exterior of their home or property. The process will be the same for all submittals with the required details varying depending upon the
 type of change.
 
-Failure to submit a request **_prior to the start of work_** may result in denial and/or removal at the owners’ expense.
+Failure to submit a request **_prior to the start of work_** may result in denial and/or removal at the owner's expense.
 
 Items to be submitted:
-1. Architectural Request Form completed in its entirety.
-2. Plot plan outlining the position or placement of the change or additions.
-3. Drawings / plans showing the construction of the change or addition.
-4. Samples of paint, siding, or any other items that may be helpful in making a decision.
+Architectural Request Form completed in its entirety.
+Plot plan outlining the position or placement of the change or additions.
+Drawings / plans showing the construction of the change or addition.
+Samples of paint, siding, or any other items that may be helpful in making a decision.
 Submit your completed Architectural Request Form to the management company for initial
 review. Incomplete submittals will be returned to the homeowner and are deemed denied until
 completed.
