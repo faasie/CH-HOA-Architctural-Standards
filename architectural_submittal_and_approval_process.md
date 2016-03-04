@@ -3,7 +3,7 @@
 Each homeowner has the responsibility to complete an Architectural Request Form prior to making any changes, additions, or deletions to the exterior of their home or property. The process will be the same for all submittals with the required details varying depending upon the
 type of change.
 
-Failure to submit a request *_prior to the start of work_* may result in denial and/or removal at the owners’ expense.
+Failure to submit a request **_prior to the start of work_** may result in denial and/or removal at the owners’ expense.
 
 Items to be submitted:
 1. Architectural Request Form completed in its entirety.
