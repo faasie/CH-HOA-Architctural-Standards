@@ -10,8 +10,8 @@
 * [Awnings](awnings.md)
 * [Basketball Goals](basketball_goals.md)
 * [Clotheslines](clotheslines.md)
-* [Decks, Patios, Arbors, and Screens](decks_patios_arbors_screends.md)
-* [Detached Structures](detatched_structures.md)
+* [Decks, Patios, Arbors, and Screens](decks_patios_arbors_screens.md)
+* [Detached Structures](detached_structures.md)
 * [Driveways and Parking Pads](driveways_parking_pads.md)
 * [Fences](fences.md)
 * [Landscaping](landscaping.md)
@@ -28,4 +28,4 @@
 * [Swimming Pools and Hot Tubs](swimming_pools.md)
 * [Vegetable Garden Plots](vegetable.md)
 * [Compost](compost.md)
-* 
+*
