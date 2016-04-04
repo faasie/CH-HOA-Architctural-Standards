@@ -2,20 +2,16 @@
 
 All fences require architectural approval prior to construction.
 
-Styles:
-> Stockade fences should be constructed in a Scalloped or Rainbow design, with decorative
+**Styles:** Stockade fences should be constructed in a Scalloped or Rainbow design, with decorative
 exposed posts.
 
-Color:
->Color may be natural, natural wood-color or white stain. Painted fences are strictly
+**Color:** Color may be natural, natural wood-color or white stain. Painted fences are strictly
 prohibited.
 
-Materials:
->Fence itself must be wood only. All types above may be either cedar, redwood, or treated
+**Materials:** Fence itself must be wood only. All types above may be either cedar, redwood, or treated
 pine lumber. Any other material must be approved.
 
-Height:
->The maximum height allowed is five (5) feet measured from the ground to the top of any
+**Height:** The maximum height allowed is five (5) feet measured from the ground to the top of any
 portion of the fence, including decorative posts.
 
 Location:
