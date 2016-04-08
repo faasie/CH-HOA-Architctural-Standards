@@ -8,8 +8,7 @@ exposed posts.
 **Color:** Color may be natural, natural wood-color or white stain. Painted fences are strictly
 prohibited.
 
-**Materials:** Fence itself must be wood only. All types above may be either cedar, redwood, or treated
-pine lumber. Any other material must be approved.
+**Materials:** Stockade (wood) may be either cedar, redwood, or treated pine lumber. Metal (wrought iron style) may be powder coated aluminum or wrought iron. Chain link, wire, and metal slat is not allowed. Any other material must be approved.
 
 **Height:** The maximum height allowed is five (5) feet measured from the ground to the top of any
 portion of the fence, including decorative posts.
@@ -25,8 +24,7 @@ Location:
 
 Landscaping must be included with the submittal.
 
-Construction details require all hardware to be galvanized, posts to be set in concrete, and finished
-side of fence must face the adjoining lots.
+Construction details require all hardware to be weather resistant, posts to be set in concrete, and finished side (where applicable) of fence must face the adjoining lots.
 
 Process:
 1. Each installation will be examined on its own merit. No previously approved installation shall constitute a precedent for approval.
